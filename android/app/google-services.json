@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "906464238572",
+    "project_id": "lane-dane-20615",
+    "storage_bucket": "lane-dane-20615.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906464238572:android:f2d6863d59c0874f18bec9",
+        "android_client_info": {
+          "package_name": "com.lane_dane.lane_dane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906464238572-ogq7jcpi65bljs772gbhkuvpfsqkr78o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvJOYwuAqpKxvukresV4fIv5jmojgmQoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906464238572-ogq7jcpi65bljs772gbhkuvpfsqkr78o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
